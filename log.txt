@@ -1,0 +1,117 @@
+HD 15: Found new combo - Vref: 1100, Veval: 450, Vrep: 1200
+HD 16: Found new combo - Vref: 1100, Veval: 450, Vrep: 1200
+HD 17: Found new combo - Vref: 1100, Veval: 450, Vrep: 1200
+HD 18: Found new combo - Vref: 1100, Veval: 450, Vrep: 1200
+HD 19: Found new combo - Vref: 1175, Veval: 400, Vrep: 1200
+HD 20: Found new combo - Vref: 1100, Veval: 450, Vrep: 1200
+HD 21: Found new combo - Vref: 1100, Veval: 450, Vrep: 1200
+HD 22: Found new combo - Vref: 1175, Veval: 400, Vrep: 1200
+HD 23: Found new combo - Vref: 1100, Veval: 450, Vrep: 1200
+HD 24: Found new combo - Vref: 950, Veval: 500, Vrep: 1200
+HD 25: Found new combo - Vref: 950, Veval: 500, Vrep: 1200
+HD 26: Found new combo - Vref: 850, Veval: 525, Vrep: 1200
+HD 27: Found new combo - Vref: 1175, Veval: 400, Vrep: 1200
+HD 28: Found new combo - Vref: 775, Veval: 600, Vrep: 1100
+HD 29: Found new combo - Vref: 1175, Veval: 400, Vrep: 1200
+HD 30: Found new combo - Vref: 1175, Veval: 400, Vrep: 1200
+HD 31: Found new combo - Vref: 1175, Veval: 400, Vrep: 1150
+
+Final Results:
+Hamming Distance 15: Vref: 1100, Veval: 450, Vrep: 1200
+Hamming Distance 16: Vref: 1100, Veval: 450, Vrep: 1200
+Hamming Distance 17: Vref: 1100, Veval: 450, Vrep: 1200
+Hamming Distance 18: Vref: 1100, Veval: 450, Vrep: 1200
+Hamming Distance 19: Vref: 1175, Veval: 400, Vrep: 1200
+Hamming Distance 20: Vref: 1100, Veval: 450, Vrep: 1200
+Hamming Distance 21: Vref: 1100, Veval: 450, Vrep: 1200
+Hamming Distance 22: Vref: 1175, Veval: 400, Vrep: 1200
+Hamming Distance 23: Vref: 1100, Veval: 450, Vrep: 1200
+Hamming Distance 24: Vref: 950, Veval: 500, Vrep: 1200
+Hamming Distance 25: Vref: 950, Veval: 500, Vrep: 1200
+Hamming Distance 26: Vref: 850, Veval: 525, Vrep: 1200
+Hamming Distance 27: Vref: 1175, Veval: 400, Vrep: 1200
+Hamming Distance 28: Vref: 775, Veval: 600, Vrep: 1100
+Hamming Distance 29: Vref: 1175, Veval: 400, Vrep: 1200
+Hamming Distance 30: Vref: 1175, Veval: 400, Vrep: 1200
+Hamming Distance 31: Vref: 1175, Veval: 400, Vrep: 1150
+HD 15: Found new combo - Vref: 1025, Veval: 475, Vrep: 1200
+HD 16: Found new combo - Vref: 1025, Veval: 475, Vrep: 1200
+HD 17: Found new combo - Vref: 1025, Veval: 475, Vrep: 1200
+HD 18: Found new combo - Vref: 1025, Veval: 475, Vrep: 1200
+
+Final Results:
+Hamming Distance 16: Vref: 1025, Veval: 475, Vrep: 1200
+Hamming Distance 17: Vref: 1025, Veval: 475, Vrep: 1200
+Hamming Distance 18: Vref: 1025, Veval: 475, Vrep: 1200
+HD 16: Found new combo - Vref: 1025, Veval: 475, Vrep: 1200
+HD 17: Found new combo - Vref: 1025, Veval: 475, Vrep: 1200
+HD 18: Found new combo - Vref: 1025, Veval: 475, Vrep: 1200
+
+Final Results:
+Hamming Distance 16: Vref: 1025, Veval: 475, Vrep: 1200
+Hamming Distance 17: Vref: 1025, Veval: 475, Vrep: 1200
+Hamming Distance 18: Vref: 1025, Veval: 475, Vrep: 1200
+HD 16: Found new combo - Vref: 950, Veval: 500, Vrep: 1200
+HD 17: Found new combo - Vref: 950, Veval: 500, Vrep: 1200
+HD 18: Found new combo - Vref: 950, Veval: 500, Vrep: 1200
+
+Final Results:
+Hamming Distance 16: Vref: 950, Veval: 500, Vrep: 1200
+Hamming Distance 17: Vref: 950, Veval: 500, Vrep: 1200
+Hamming Distance 18: Vref: 950, Veval: 500, Vrep: 1200
+HD 17: Found new combo - Vref: 950, Veval: 500, Vrep: 1100
+HD 18: Found new combo - Vref: 950, Veval: 500, Vrep: 1100
+
+Final Results:
+Hamming Distance 17: Vref: 950, Veval: 500, Vrep: 1100
+Hamming Distance 18: Vref: 950, Veval: 500, Vrep: 1100
+HD 20: Found new combo - Vref: 1025, Veval: 475, Vrep: 1000
+HD 20: Found new combo - Vref: 1100, Veval: 450, Vrep: 1075
+HD 21: Found new combo - Vref: 1025, Veval: 475, Vrep: 1075
+
+Final Results:
+Hamming Distance 20: Vref: 1100, Veval: 450, Vrep: 1075
+Hamming Distance 21: Vref: 1025, Veval: 475, Vrep: 1075
+HD 23: Found new combo - Vref: 850, Veval: 525, Vrep: 1050
+
+Final Results:
+Hamming Distance 23: Vref: 850, Veval: 525, Vrep: 1050
+HD 24: Found new combo - Vref: 950, Veval: 500, Vrep: 1025
+HD 25: Found new combo - Vref: 850, Veval: 525, Vrep: 1025
+
+Final Results:
+Hamming Distance 24: Vref: 950, Veval: 500, Vrep: 1025
+Hamming Distance 25: Vref: 850, Veval: 525, Vrep: 1025
+HD 29: Found new combo - Vref: 925, Veval: 500, Vrep: 1025
+HD 30: Found new combo - Vref: 925, Veval: 500, Vrep: 1025
+
+Final Results:
+Hamming Distance 29: Vref: 925, Veval: 500, Vrep: 1025
+Hamming Distance 30: Vref: 925, Veval: 500, Vrep: 1025
+HD 29: Found new combo - Vref: 925, Veval: 500, Vrep: 1000
+HD 30: Found new combo - Vref: 925, Veval: 500, Vrep: 1000
+
+Final Results:
+Hamming Distance 29: Vref: 925, Veval: 500, Vrep: 1000
+Hamming Distance 30: Vref: 925, Veval: 500, Vrep: 1000
+HD 31: Found new combo - Vref: 1175, Veval: 400, Vrep: 1000
+HD 32: Found new combo - Vref: 1175, Veval: 400, Vrep: 1000
+HD 33: Found new combo - Vref: 925, Veval: 500, Vrep: 1000
+HD 33: Found new combo - Vref: 925, Veval: 500, Vrep: 1025
+HD 34: Found new combo - Vref: 925, Veval: 500, Vrep: 975
+HD 35: Found new combo - Vref: 925, Veval: 500, Vrep: 1025
+HD 36: Found new combo - Vref: 1000, Veval: 475, Vrep: 725
+HD 37: Found new combo - Vref: 925, Veval: 500, Vrep: 975
+HD 38: Found new combo - Vref: 925, Veval: 500, Vrep: 1025
+HD 39: Found new combo - Vref: 750, Veval: 925, Vrep: 525
+HD 40: Found new combo - Vref: 925, Veval: 500, Vrep: 1025
+
+Final Results:
+Hamming Distance 33: Vref: 925, Veval: 500, Vrep: 1025
+Hamming Distance 34: Vref: 925, Veval: 500, Vrep: 975
+Hamming Distance 35: Vref: 925, Veval: 500, Vrep: 1025
+Hamming Distance 36: Vref: 1000, Veval: 475, Vrep: 725
+Hamming Distance 37: Vref: 925, Veval: 500, Vrep: 975
+Hamming Distance 38: Vref: 925, Veval: 500, Vrep: 1025
+Hamming Distance 39: Vref: 750, Veval: 925, Vrep: 525
+Hamming Distance 40: Vref: 925, Veval: 500, Vrep: 1025
