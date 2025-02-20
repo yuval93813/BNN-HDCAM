@@ -201,7 +201,10 @@ class XBOX(object):
         stdio_serial_gate = sgw.serGate()
         esc_serial_gate = sgw.serGate()
         serial_gateway = sgw.serGateWay(serial_port_name,stdio_serial_gate, esc_serial_gate)
-        target_br = 72000
+        #target_br = 72000 #115200 # 1000000
+        target_br = 115200 #115200 # 1000000
+        #target_br = 1000000 #115200 # 1000000
+
         if (serial_gateway.target_baudrate != target_br):
             print ("Changing target_baudrate to %d" % target_br)
             serial_gateway.target_baudrate = target_br
