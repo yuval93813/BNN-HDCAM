@@ -188,10 +188,10 @@ activation = [
     #[5, [0x9eb576acbb83433f, 0x85e73dcadbe4a2e1]],
     #[5, [0x86fdab4b97534427, 0x5428eeadda74cbb]],
     #[5, [0x94b5770cae93476f, 0xcd06abeadbe698be]],
-    [6, [0xb49b34a9b183c37b, 0x898f1412de45e398]],
-    [6, [0xb06b1af950a56263, 0xe99e53144f15ed1b]],
-    [6, [0x902f109df8a5436b, 0xe99ef3144f15ec1b]],
-    [6, [0xb08a14bdf0a1e36b, 0xa09fd504ce55e298]],
+    # [6, [0xb49b34a9b183c37b, 0x898f1412de45e398]],
+    # [6, [0xb06b1af950a56263, 0xe99e53144f15ed1b]],
+    # [6, [0x902f109df8a5436b, 0xe99ef3144f15ec1b]],
+    # [6, [0xb08a14bdf0a1e36b, 0xa09fd504ce55e298]],
     # #[6, [0x952fdaf6ee07c37b, 0xb021d02bfa5f9e98]],
     # #[7, [0x6e5208209221fe72, 0x93ac8eb62da1a5f6]],
     # #[7, [0x5f7800244337289c, 0x7278e9782a240468]],
@@ -203,9 +203,9 @@ activation = [
     # #[8, [0xbc992e3a02af062e, 0x5406ac6addaa1c8b]],
     # #[8, [0xb0992e2c46bb07ae, 0xc406e94adfa29ccb]],
     # #[8, [0x2952a3c06b52186, 0xc40163cafd903ccf]],
-    [9, [0x6a3c1bad86a58c35, 0xb014107082c3e7af]],
     [9, [0xef346c3a0e529468, 0x5668a6ba7750d469]],
     [9, [0x6a344e2cc3e8397d, 0x776c7d1a6ac6de39]],
+    ##[9, [0x4b2c6c9cc128e586, 0xb05141062d90742f]]
     # [9, [0xdfbc207a249ae63c, 0x79fbd82c21097623]],
     # [9, [0x6e346c2ac7a2e486, 0x977581a60d85702f]]
 ]
@@ -222,15 +222,15 @@ activation = [
 #     [9, [0x4f346c3a8f6a2586, 0x1e608aee3daa3423]],
 #     #[9, [0x4b344a2ccb20e4c7, 0xb171c1a60d997723]],
 #     [9, [0xecb66c2aa3ae4566, 0xae6589aa9cec70af]],
-#     [9, [0x4b2c6c9cc128e586, 0xb05141062d90742f]]
+##     [9, [0x4b2c6c9cc128e586, 0xb05141062d90742f]]
 # ]
               
 
-activation = [
-    [9, [0xd3b5600cccb811c7, 0xd535e1c8e110bc62]],
-    [9, [0xcbb6682ec9384447, 0xa561c1e2c5197e2f]],
-    [9, [0xefac2cba816b4407, 0x346dc112c4096627]],
-]
+# activation = [
+#     [9, [0xd3b5600cccb811c7, 0xd535e1c8e110bc62]],
+#     [9, [0xcbb6682ec9384447, 0xa561c1e2c5197e2f]],
+#     [9, [0xefac2cba816b4407, 0x346dc112c4096627]],
+# ]
 
 
 
