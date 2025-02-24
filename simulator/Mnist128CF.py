@@ -1,9 +1,13 @@
 import csv
 import os
+import random
 
-def bitwise_xnor(bin1, bin2):
-    # Convert binary strings to integers
-    num1 = int(bin1, 2)
+def bitwise_xnor(bin1, bin2, flip_prob=0.30):
+    # Flip bits in bin1 with a given probability
+    flipped_bin1 = ''.join('1' if (bit == '0' and random.random() < flip_prob) else '0' if (bit == '1' and random.random() < flip_prob) else bit for bit in bin1)
+    
+    # Convert flipped binary string and bin2 to integers
+    num1 = int(flipped_bin1, 2)
     num2 = int(bin2, 2)
     
     # Perform bitwise XNOR using ~(num1 ^ num2) and mask with appropriate bit length
@@ -16,12 +20,6 @@ def bitwise_xnor(bin1, bin2):
     # Count the number of ones in the XNOR result
     ones_count = xnor_bin.count('1')
     
-    # Print results
-    # print(f"Binary 1:    {bin1}")
-    # print(f"Binary 2:    {bin2}")
-    # print(f"XNOR Result: {xnor_bin}")
-    # print(f"Number of 1s: {ones_count}")
-
     return ones_count
 
 
@@ -35,9 +33,14 @@ def run_last_layer(weights, activation,MnistLable, max_hd):
             histogram_Arr[label] = 0
 
         for hd in range(max_hd+1):
-            result = bitwise_xnor(format(active[1], '0128b'), format(weight[1], '0128b'))
-           
-            resultFinel = 1 if (128-result)<= hd else 0
+            results = []
+            for _ in range(10):  # Run the bitwise_xnor function 10 times
+                result = bitwise_xnor(format(active[1], '0128b'), format(weight[1], '0128b'))
+                results.append(result)
+            
+            # Determine the majority result
+            majority_result = 1 if sum((128 - r) <= hd for r in results) > 5 else 0
+            resultFinel = majority_result
 
 
             if resultFinel == 1:

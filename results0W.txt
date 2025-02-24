@@ -1,0 +1,704 @@
+
+OR results counts per label:
+Label 0: 6
+Label 1: 1
+Label 2: 3
+Label 3: 0
+Label 4: 1
+Label 5: 2
+Label 6: 2
+Label 7: 1
+Label 8: 3
+Label 9: 2
+Predicted Label: 0, MNIST Label: 0
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 4
+Label 1: 1
+Label 2: 0
+Label 3: 0
+Label 4: 1
+Label 5: 2
+Label 6: 0
+Label 7: 0
+Label 8: 2
+Label 9: 0
+Predicted Label: 0, MNIST Label: 0
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 11
+Label 1: 1
+Label 2: 2
+Label 3: 0
+Label 4: 0
+Label 5: 1
+Label 6: 0
+Label 7: 0
+Label 8: 2
+Label 9: 0
+Predicted Label: 0, MNIST Label: 0
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 9
+Label 1: 0
+Label 2: 7
+Label 3: 3
+Label 4: 4
+Label 5: 1
+Label 6: 2
+Label 7: 1
+Label 8: 1
+Label 9: 0
+Predicted Label: 0, MNIST Label: 0
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 9
+Label 1: 0
+Label 2: 5
+Label 3: 0
+Label 4: 1
+Label 5: 0
+Label 6: 0
+Label 7: 0
+Label 8: 0
+Label 9: 0
+Predicted Label: 0, MNIST Label: 0
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 4
+Label 2: 0
+Label 3: 0
+Label 4: 0
+Label 5: 2
+Label 6: 0
+Label 7: 0
+Label 8: 0
+Label 9: 1
+Predicted Label: 1, MNIST Label: 1
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 8
+Label 2: 0
+Label 3: 0
+Label 4: 0
+Label 5: 3
+Label 6: 0
+Label 7: 0
+Label 8: 4
+Label 9: 3
+Predicted Label: 1, MNIST Label: 1
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 5
+Label 1: 9
+Label 2: 3
+Label 3: 6
+Label 4: 7
+Label 5: 2
+Label 6: 2
+Label 7: 1
+Label 8: 3
+Label 9: 2
+Predicted Label: 1, MNIST Label: 1
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 2
+Label 1: 5
+Label 2: 0
+Label 3: 1
+Label 4: 1
+Label 5: 0
+Label 6: 1
+Label 7: 4
+Label 8: 2
+Label 9: 1
+Predicted Label: 1, MNIST Label: 1
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 3
+Label 1: 0
+Label 2: 2
+Label 3: 2
+Label 4: 3
+Label 5: 1
+Label 6: 5
+Label 7: 1
+Label 8: 5
+Label 9: 1
+Predicted Label: 6, MNIST Label: 1
+The predicted label does not match the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 7
+Label 3: 5
+Label 4: 0
+Label 5: 4
+Label 6: 2
+Label 7: 0
+Label 8: 0
+Label 9: 0
+Predicted Label: 2, MNIST Label: 2
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 1
+Label 1: 0
+Label 2: 3
+Label 3: 0
+Label 4: 1
+Label 5: 0
+Label 6: 0
+Label 7: 0
+Label 8: 0
+Label 9: 0
+Predicted Label: 2, MNIST Label: 2
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 1
+Label 1: 1
+Label 2: 2
+Label 3: 0
+Label 4: 0
+Label 5: 0
+Label 6: 1
+Label 7: 0
+Label 8: 0
+Label 9: 0
+Predicted Label: 2, MNIST Label: 2
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 1
+Label 1: 0
+Label 2: 2
+Label 3: 0
+Label 4: 0
+Label 5: 0
+Label 6: 0
+Label 7: 0
+Label 8: 0
+Label 9: 1
+Predicted Label: 2, MNIST Label: 2
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 1
+Label 2: 5
+Label 3: 0
+Label 4: 1
+Label 5: 0
+Label 6: 0
+Label 7: 0
+Label 8: 3
+Label 9: 0
+Predicted Label: 2, MNIST Label: 2
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 2
+Label 1: 2
+Label 2: 3
+Label 3: 5
+Label 4: 3
+Label 5: 4
+Label 6: 2
+Label 7: 2
+Label 8: 4
+Label 9: 2
+Predicted Label: 3, MNIST Label: 3
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 3
+Label 3: 5
+Label 4: 0
+Label 5: 1
+Label 6: 1
+Label 7: 2
+Label 8: 3
+Label 9: 0
+Predicted Label: 3, MNIST Label: 3
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 2
+Label 1: 1
+Label 2: 0
+Label 3: 7
+Label 4: 0
+Label 5: 1
+Label 6: 0
+Label 7: 1
+Label 8: 6
+Label 9: 6
+Predicted Label: 3, MNIST Label: 3
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 2
+Label 1: 0
+Label 2: 0
+Label 3: 6
+Label 4: 0
+Label 5: 4
+Label 6: 1
+Label 7: 0
+Label 8: 4
+Label 9: 4
+Predicted Label: 3, MNIST Label: 3
+The predicted label matches the MNIST label.
+
+AND results counts per label:
+Label 0: 1
+Label 1: 2
+Label 2: 0
+Label 3: 3
+Label 4: 1
+Label 5: 4
+Label 6: 0
+Label 7: 0
+Label 8: 3
+Label 9: 1
+Predicted Label: 5, MNIST Label: 3
+The predicted label does not match the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 4
+Label 2: 2
+Label 3: 4
+Label 4: 5
+Label 5: 0
+Label 6: 1
+Label 7: 2
+Label 8: 4
+Label 9: 0
+Predicted Label: 4, MNIST Label: 4
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 1
+Label 1: 1
+Label 2: 3
+Label 3: 1
+Label 4: 9
+Label 5: 6
+Label 6: 1
+Label 7: 2
+Label 8: 1
+Label 9: 4
+Predicted Label: 4, MNIST Label: 4
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 1
+Label 1: 1
+Label 2: 0
+Label 3: 0
+Label 4: 8
+Label 5: 0
+Label 6: 1
+Label 7: 7
+Label 8: 0
+Label 9: 4
+Predicted Label: 4, MNIST Label: 4
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 1
+Label 1: 1
+Label 2: 0
+Label 3: 1
+Label 4: 7
+Label 5: 1
+Label 6: 2
+Label 7: 0
+Label 8: 1
+Label 9: 1
+Predicted Label: 4, MNIST Label: 4
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 1
+Label 3: 4
+Label 4: 5
+Label 5: 1
+Label 6: 0
+Label 7: 0
+Label 8: 4
+Label 9: 1
+Predicted Label: 4, MNIST Label: 4
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 1
+Label 4: 0
+Label 5: 4
+Label 6: 0
+Label 7: 0
+Label 8: 1
+Label 9: 0
+Predicted Label: 5, MNIST Label: 5
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 1
+Label 3: 0
+Label 4: 1
+Label 5: 5
+Label 6: 0
+Label 7: 0
+Label 8: 0
+Label 9: 0
+Predicted Label: 5, MNIST Label: 5
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 4
+Label 3: 5
+Label 4: 0
+Label 5: 8
+Label 6: 7
+Label 7: 0
+Label 8: 6
+Label 9: 0
+Predicted Label: 5, MNIST Label: 5
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 0
+Label 4: 1
+Label 5: 3
+Label 6: 0
+Label 7: 1
+Label 8: 0
+Label 9: 1
+Predicted Label: 5, MNIST Label: 5
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 0
+Label 4: 0
+Label 5: 3
+Label 6: 0
+Label 7: 0
+Label 8: 2
+Label 9: 1
+Predicted Label: 5, MNIST Label: 5
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 0
+Label 4: 0
+Label 5: 0
+Label 6: 7
+Label 7: 0
+Label 8: 0
+Label 9: 0
+Predicted Label: 6, MNIST Label: 6
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 1
+Label 1: 0
+Label 2: 1
+Label 3: 0
+Label 4: 0
+Label 5: 1
+Label 6: 6
+Label 7: 0
+Label 8: 0
+Label 9: 0
+Predicted Label: 6, MNIST Label: 6
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 3
+Label 1: 0
+Label 2: 2
+Label 3: 0
+Label 4: 0
+Label 5: 1
+Label 6: 6
+Label 7: 0
+Label 8: 0
+Label 9: 1
+Predicted Label: 6, MNIST Label: 6
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 1
+Label 3: 1
+Label 4: 0
+Label 5: 3
+Label 6: 6
+Label 7: 0
+Label 8: 0
+Label 9: 0
+Predicted Label: 6, MNIST Label: 6
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 4
+Label 1: 3
+Label 2: 1
+Label 3: 2
+Label 4: 3
+Label 5: 4
+Label 6: 13
+Label 7: 3
+Label 8: 1
+Label 9: 1
+Predicted Label: 6, MNIST Label: 6
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 0
+Label 4: 0
+Label 5: 0
+Label 6: 5
+Label 7: 6
+Label 8: 0
+Label 9: 2
+Predicted Label: 7, MNIST Label: 7
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 0
+Label 4: 0
+Label 5: 0
+Label 6: 6
+Label 7: 7
+Label 8: 0
+Label 9: 1
+Predicted Label: 7, MNIST Label: 7
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 0
+Label 4: 0
+Label 5: 2
+Label 6: 1
+Label 7: 5
+Label 8: 0
+Label 9: 0
+Predicted Label: 7, MNIST Label: 7
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 1
+Label 4: 0
+Label 5: 2
+Label 6: 0
+Label 7: 8
+Label 8: 1
+Label 9: 2
+Predicted Label: 7, MNIST Label: 7
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 1
+Label 2: 1
+Label 3: 2
+Label 4: 0
+Label 5: 1
+Label 6: 3
+Label 7: 4
+Label 8: 0
+Label 9: 2
+Predicted Label: 7, MNIST Label: 7
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 0
+Label 4: 1
+Label 5: 2
+Label 6: 5
+Label 7: 0
+Label 8: 7
+Label 9: 2
+Predicted Label: 8, MNIST Label: 8
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 1
+Label 4: 0
+Label 5: 0
+Label 6: 0
+Label 7: 0
+Label 8: 7
+Label 9: 0
+Predicted Label: 8, MNIST Label: 8
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 1
+Label 1: 0
+Label 2: 0
+Label 3: 1
+Label 4: 0
+Label 5: 0
+Label 6: 0
+Label 7: 0
+Label 8: 6
+Label 9: 0
+Predicted Label: 8, MNIST Label: 8
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 2
+Label 4: 0
+Label 5: 0
+Label 6: 0
+Label 7: 1
+Label 8: 6
+Label 9: 5
+Predicted Label: 8, MNIST Label: 8
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 1
+Label 3: 0
+Label 4: 0
+Label 5: 0
+Label 6: 0
+Label 7: 0
+Label 8: 4
+Label 9: 0
+Predicted Label: 8, MNIST Label: 8
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 3
+Label 3: 0
+Label 4: 0
+Label 5: 0
+Label 6: 1
+Label 7: 0
+Label 8: 0
+Label 9: 4
+Predicted Label: 9, MNIST Label: 9
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 1
+Label 2: 0
+Label 3: 0
+Label 4: 0
+Label 5: 0
+Label 6: 0
+Label 7: 3
+Label 8: 0
+Label 9: 7
+Predicted Label: 9, MNIST Label: 9
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 0
+Label 4: 6
+Label 5: 2
+Label 6: 7
+Label 7: 1
+Label 8: 0
+Label 9: 6
+Predicted Label: 6, MNIST Label: 9
+The predicted label does not match the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 0
+Label 4: 0
+Label 5: 0
+Label 6: 0
+Label 7: 0
+Label 8: 0
+Label 9: 2
+Predicted Label: 9, MNIST Label: 9
+The predicted label matches the MNIST label.
+
+OR results counts per label:
+Label 0: 0
+Label 1: 0
+Label 2: 0
+Label 3: 0
+Label 4: 0
+Label 5: 0
+Label 6: 0
+Label 7: 2
+Label 8: 0
+Label 9: 3
+Predicted Label: 9, MNIST Label: 9
+The predicted label matches the MNIST label.
+
+
+
+
