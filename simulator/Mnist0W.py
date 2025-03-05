@@ -71,7 +71,7 @@ def run_last_layer(weights, activation, MnistLable, max_hd):
             top_2_correct = MnistLable in tied_labels
        
     prediction_result = f"Predicted Label: {predicted_label}, MNIST Label: {MnistLable}, top_2_correct = {top_2_correct}, Top 2 Labels: {top_2_labels}\n"
-    print(prediction_result, end="")
+    # print(prediction_result, end="")
 
     return predicted_label == MnistLable, top_2_correct
 
@@ -117,31 +117,37 @@ weightsHG = [
 activation = []
 csv_Mnist = f"Mnist_data\mnist_Test_data.csv"
 csv_HG = f"HG_data\hg_Test_data.csv"
-with open(csv_HG, newline='') as csvfile:
+with open(csv_Mnist, newline='') as csvfile:
     for row in csv.reader(csvfile):
         first_active = int(row[0], 2) >> 64
         second_active = int(row[0], 2) & 0xFFFFFFFFFFFFFFFF
         label = int(row[1])
         activation.append([label, [first_active, second_active]])
 
-labelmiss = {}
-count_res = 0
-top_2_count = 0
+os.makedirs(os.path.dirname("C:/Users/User/Desktop/BNN-HDCAM/Mnist0WResults.txt"), exist_ok=True)
+with open("C:/Users/User/Desktop/BNN-HDCAM/Mnist0WResults.txt", "w") as result_file:
+    for hd in range(0,20):
+        labelmiss = {}
+        count_res = 0
+        top_2_count = 0
 
-for active in activation:
-    correct, top_2_correct = run_last_layer(weightsHG, [active[1]], active[0], 13)
-    
-    if correct:
-        count_res += 1
-    else:
-        if active[0] not in labelmiss:
-            labelmiss[active[0]] = 1
-        else:
-            labelmiss[active[0]] += 1
-    if top_2_correct:
-        top_2_count += 1
-    
-
-print(f"Total correct predictions: {count_res/len(activation)}")
-print(f"Total top 2 accuracy: {top_2_count/len(activation)}")
-print(labelmiss)
+        for active in activation:
+            correct, top_2_correct = run_last_layer(weightsMnist, [active[1]], active[0], hd)
+            
+            if correct:
+                count_res += 1
+            else:
+                if active[0] not in labelmiss:
+                    labelmiss[active[0]] = 1
+                else:
+                    labelmiss[active[0]] += 1
+            if top_2_correct:
+                top_2_count += 1
+        print(f"HD: {hd}")
+        print(f"Total correct predictions: {count_res/len(activation)}")
+        print(f"Total top 2 accuracy: {top_2_count/len(activation)}")
+        print(f"Label miss counts: {labelmiss}\n")
+        result_file.write(f"HD: {hd}\n")
+        result_file.write(f"Total correct predictions: {count_res/len(activation)}\n")
+        result_file.write(f"Total top 2 accuracy: {top_2_count/len(activation)}\n")
+        result_file.write(f"Label miss counts: {labelmiss}\n\n")

@@ -60,7 +60,7 @@ def run_last_layer(weights, activation, MnistLable, max_hd):
             top_2_correct = MnistLable in tied_labels
        
     prediction_result = f"Predicted Label: {predicted_label:<2}, MNIST Label: {MnistLable:<2}, top_2_correct = {top_2_correct}, Top 2 Labels: {top_2_labels} \n"
-    print(prediction_result, end="")
+    # print(prediction_result, end="")
 
     return predicted_label == MnistLable, top_2_correct
         
@@ -116,24 +116,30 @@ for row in csv.reader(open(csv_HG)):
 
 
 
-labelmiss = {}
-count_res = 0
-top_2_count = 0
+os.makedirs(os.path.dirname("C:/Users/User/Desktop/BNN-HDCAM/HG64Results.txt"), exist_ok=True)
+with open("C:/Users/User/Desktop/BNN-HDCAM/HG64Results.txt", "w") as result_file:
+    for hd in range(0,36):
+        labelmiss = {}
+        count_res = 0
+        top_2_count = 0
 
-for active in activation:
-    correct, top_2_correct = run_last_layer(weightsHG, [active[1]], active[0], 28)
-    
-    if correct:
-        count_res += 1
-    else:
-        if active[0] not in labelmiss:
-            labelmiss[active[0]] = 1
-        else:
-            labelmiss[active[0]] += 1
-    if top_2_correct:
-        top_2_count += 1
-    
-
-print(f"Total correct predictions: {count_res/len(activation)}")
-print(f"Total top 2 accuracy: {top_2_count/len(activation)}")
-print(labelmiss)
+        for active in activation:
+            correct, top_2_correct = run_last_layer(weightsHG, [active[1]], active[0], hd)
+            
+            if correct:
+                count_res += 1
+            else:
+                if active[0] not in labelmiss:
+                    labelmiss[active[0]] = 1
+                else:
+                    labelmiss[active[0]] += 1
+            if top_2_correct:
+                top_2_count += 1
+        print(f"HD: {hd}")
+        print(f"Total correct predictions: {count_res/len(activation)}")
+        print(f"Total top 2 accuracy: {top_2_count/len(activation)}")
+        print(f"Label miss counts: {labelmiss}\n")
+        result_file.write(f"HD: {hd}\n")
+        result_file.write(f"Total correct predictions: {count_res/len(activation)}\n")
+        result_file.write(f"Total top 2 accuracy: {top_2_count/len(activation)}\n")
+        result_file.write(f"Label miss counts: {labelmiss}\n\n")

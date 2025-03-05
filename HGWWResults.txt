@@ -1,0 +1,130 @@
+HD: 0
+Total correct predictions: 0.0525
+Total top 2 accuracy: 0.0525
+Label miss counts: {1: 300, 2: 300, 3: 300, 4: 300, 5: 300, 6: 300, 7: 300, 8: 300, 9: 300, 10: 300, 11: 300, 12: 300, 13: 300, 14: 298, 15: 300, 16: 300, 17: 300, 18: 300, 19: 287}
+
+HD: 1
+Total correct predictions: 0.06683333333333333
+Total top 2 accuracy: 0.06683333333333333
+Label miss counts: {1: 300, 2: 300, 3: 214, 4: 300, 5: 300, 6: 300, 7: 300, 8: 300, 9: 300, 10: 300, 11: 300, 12: 300, 13: 300, 14: 298, 15: 300, 16: 300, 17: 300, 18: 300, 19: 287}
+
+HD: 2
+Total correct predictions: 0.129
+Total top 2 accuracy: 0.129
+Label miss counts: {1: 266, 2: 97, 3: 214, 4: 300, 5: 292, 6: 290, 7: 300, 8: 300, 9: 300, 10: 300, 11: 283, 12: 298, 13: 300, 14: 258, 15: 300, 16: 300, 17: 300, 18: 300, 19: 228}
+
+HD: 3
+Total correct predictions: 0.1475
+Total top 2 accuracy: 0.1475
+Label miss counts: {1: 215, 2: 97, 3: 161, 4: 300, 5: 292, 6: 290, 7: 300, 8: 300, 9: 300, 10: 300, 11: 283, 12: 298, 13: 300, 14: 258, 15: 293, 16: 300, 17: 300, 18: 300, 19: 228}
+
+HD: 4
+Total correct predictions: 0.31716666666666665
+Total top 2 accuracy: 0.31716666666666665
+Label miss counts: {1: 136, 2: 2, 3: 134, 4: 300, 5: 54, 6: 86, 7: 300, 8: 300, 9: 241, 10: 300, 11: 78, 12: 283, 13: 300, 14: 214, 15: 293, 16: 300, 17: 300, 18: 300, 19: 176}
+
+HD: 5
+Total correct predictions: 0.362
+Total top 2 accuracy: 0.362
+Label miss counts: {1: 66, 2: 2, 3: 48, 4: 300, 5: 54, 6: 80, 7: 300, 8: 300, 9: 241, 10: 300, 11: 78, 12: 283, 13: 300, 14: 214, 15: 186, 16: 300, 17: 300, 18: 300, 19: 176}
+
+HD: 6
+Total correct predictions: 0.507
+Total top 2 accuracy: 0.507
+Label miss counts: {1: 8, 3: 27, 4: 299, 5: 26, 6: 3, 7: 300, 8: 300, 9: 3, 10: 298, 11: 5, 12: 194, 13: 235, 14: 115, 15: 186, 16: 300, 17: 300, 18: 217, 19: 142}
+
+HD: 7
+Total correct predictions: 0.5223333333333333
+Total top 2 accuracy: 0.5223333333333333
+Label miss counts: {3: 18, 4: 299, 5: 26, 6: 2, 7: 300, 8: 299, 9: 3, 10: 298, 11: 5, 12: 194, 13: 235, 14: 108, 15: 122, 16: 298, 17: 300, 18: 217, 19: 142}
+
+HD: 8
+Total correct predictions: 0.6613333333333333
+Total top 2 accuracy: 0.6613333333333333
+Label miss counts: {3: 8, 4: 68, 5: 2, 7: 300, 8: 297, 10: 263, 12: 83, 13: 35, 14: 49, 15: 122, 16: 296, 17: 297, 18: 82, 19: 130}
+
+HD: 9
+Total correct predictions: 0.7075
+Total top 2 accuracy: 0.7075
+Label miss counts: {3: 5, 5: 2, 7: 300, 8: 199, 10: 263, 12: 83, 13: 31, 14: 48, 15: 99, 16: 216, 17: 297, 18: 82, 19: 130}
+
+HD: 10
+Total correct predictions: 0.7793333333333333
+Total top 2 accuracy: 0.7793333333333333
+Label miss counts: {3: 3, 5: 1, 7: 300, 8: 192, 10: 85, 12: 39, 13: 2, 14: 35, 15: 98, 16: 205, 17: 207, 18: 33, 19: 124}
+
+HD: 11
+Total correct predictions: 0.8203333333333334
+Total top 2 accuracy: 0.8203333333333334
+Label miss counts: {5: 1, 7: 294, 8: 97, 10: 85, 12: 38, 13: 2, 14: 34, 15: 78, 16: 85, 17: 207, 18: 33, 19: 124}
+
+HD: 12
+Total correct predictions: 0.9241666666666667
+Total top 2 accuracy: 0.9248333333333333
+Label miss counts: {5: 1, 7: 5, 8: 74, 10: 14, 12: 1, 14: 31, 15: 59, 16: 81, 17: 79, 18: 19, 19: 91}
+
+HD: 13
+Total correct predictions: 0.9418333333333333
+Total top 2 accuracy: 0.9426666666666667
+Label miss counts: {5: 1, 7: 5, 8: 34, 10: 14, 14: 31, 15: 46, 16: 29, 17: 79, 18: 19, 19: 91}
+
+HD: 14
+Total correct predictions: 0.9581666666666667
+Total top 2 accuracy: 0.9653333333333334
+Label miss counts: {5: 1, 8: 9, 10: 1, 14: 27, 15: 32, 16: 29, 17: 56, 18: 12, 19: 84}
+
+HD: 15
+Total correct predictions: 0.9646666666666667
+Total top 2 accuracy: 0.972
+Label miss counts: {5: 1, 8: 1, 10: 1, 14: 27, 15: 30, 17: 56, 18: 12, 19: 84}
+
+HD: 16
+Total correct predictions: 0.978
+Total top 2 accuracy: 0.9878333333333333
+Label miss counts: {5: 1, 8: 1, 14: 6, 15: 26, 17: 55, 18: 11, 19: 32}
+
+HD: 17
+Total correct predictions: 0.979
+Total top 2 accuracy: 0.9888333333333333
+Label miss counts: {5: 1, 8: 1, 14: 6, 15: 20, 17: 55, 18: 11, 19: 32}
+
+HD: 18
+Total correct predictions: 0.9806666666666667
+Total top 2 accuracy: 0.9925
+Label miss counts: {5: 1, 8: 1, 14: 5, 15: 13, 17: 55, 18: 11, 19: 30}
+
+HD: 19
+Total correct predictions: 0.9813333333333333
+Total top 2 accuracy: 0.9933333333333333
+Label miss counts: {5: 1, 8: 1, 14: 5, 15: 9, 17: 55, 18: 11, 19: 30}
+
+HD: 20
+Total correct predictions: 0.9818333333333333
+Total top 2 accuracy: 0.994
+Label miss counts: {5: 1, 8: 1, 14: 5, 15: 6, 17: 55, 18: 11, 19: 30}
+
+HD: 21
+Total correct predictions: 0.9818333333333333
+Total top 2 accuracy: 0.9943333333333333
+Label miss counts: {5: 1, 8: 1, 14: 5, 15: 6, 17: 55, 18: 11, 19: 30}
+
+HD: 22
+Total correct predictions: 0.9818333333333333
+Total top 2 accuracy: 0.9943333333333333
+Label miss counts: {5: 1, 8: 1, 14: 5, 15: 6, 17: 55, 18: 11, 19: 30}
+
+HD: 23
+Total correct predictions: 0.9818333333333333
+Total top 2 accuracy: 0.9943333333333333
+Label miss counts: {5: 1, 8: 1, 14: 5, 15: 6, 17: 55, 18: 11, 19: 30}
+
+HD: 24
+Total correct predictions: 0.9818333333333333
+Total top 2 accuracy: 0.9943333333333333
+Label miss counts: {5: 1, 8: 1, 14: 5, 15: 6, 17: 55, 18: 11, 19: 30}
+
+HD: 25
+Total correct predictions: 0.9818333333333333
+Total top 2 accuracy: 0.9943333333333333
+Label miss counts: {5: 1, 8: 1, 14: 5, 15: 6, 17: 55, 18: 11, 19: 30}
+
