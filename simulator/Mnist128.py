@@ -94,13 +94,13 @@ weightsHG = [
 activation = []
 csv_Mnist = f"Mnist_data\mnist_Test_data.csv"
 csv_HG = f"HG_data\hg_Test_data.csv"
-for row in csv.reader(open(csv_Mnist)):
+for row in csv.reader(open(csv_HG)):
     active = int(row[0], 2)
     label = int(row[1])
     activation.append([label, active])
 
-os.makedirs(os.path.dirname("C:/Users/User/Desktop/BNN-HDCAM/Mnist128Results.txt"), exist_ok=True)
-with open("C:/Users/User/Desktop/BNN-HDCAM/Mnist128Results.txt", "w") as result_file:
+os.makedirs(os.path.dirname("C:/Users/User/Desktop/BNN-HDCAM/HG128Results.txt"), exist_ok=True)
+with open("C:/Users/User/Desktop/BNN-HDCAM/HG128Results.txt", "w") as result_file:
     for hd in range(0,70,2):
         labelmiss = {}
         count_res = 0
